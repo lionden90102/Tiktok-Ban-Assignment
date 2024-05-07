@@ -1,25 +1,21 @@
 body {
   background-color: powderblue;
+  vertical-align:middle;
 }
-
 h1 {
     color:red;
 }
-
 p {
     color:darkblue;
     font-size:16;
 }
-
 p1 {
     color:blue;
     font-size:16;
 }
-
 h2 {
     color:green;
 }
-
 p3 {
     color:green;
     font-size:25;
@@ -28,8 +24,10 @@ p2 {
     color:green;
     font-size:25;
 }
-
 h3 {
     color:Darkblue;
     font-size:25;
+}
+section2 {
+    vertical-align:bottom;
 }
